@@ -3,7 +3,7 @@ Repositorio del curso de Programacion 2
 
 Integrantes del equipo
 
-    Eduardo Zampedir       Legajo: 
+    Eduardo Zampedri       Legajo: 1130504
     Guido Botta            Legajo:
     Macarena Molina        Legajo: 1201726
 
