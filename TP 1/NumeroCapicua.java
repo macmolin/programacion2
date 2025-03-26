@@ -27,11 +27,11 @@ public class NumeroCapicua {
         int original = numero;
         int invertido = 0;
 
-      
+
         while (numero > 0) {
-            int digito = numero % 10; // Obtener el último dígito
-            invertido = invertido * 10 + digito; // Añadirlo al número invertido
-            numero /= 10; // Eliminar el último dígito
+            int digito = numero % 10;
+            invertido = invertido * 10 + digito;
+            numero /= 10; 
         }
 
         return original == invertido;
