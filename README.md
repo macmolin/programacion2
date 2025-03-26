@@ -1,10 +1,13 @@
-# programacion2
-Repositorio del curso de Programacion 2
+# Programacion 2
+## Repositorio del curso de Programacion 2
 
 Integrantes del equipo
 
-    Eduardo Zampedri       Legajo: 1130504
-    Guido Botta            Legajo:
-    Macarena Molina        Legajo: 1201726
+| Nombre y Apellido          |   Legajo                                                                                                                                                                                                                                                                                                                                                 |
+|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Eduardo Zampedri      | 1130504   
+| Guido Botta      | 1199412 
+| Macarena Molina     | 1201726
 
-TP 1
+
+El trabajo práctico 1 se encuentra en la carpeta TP1
