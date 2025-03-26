@@ -4,7 +4,7 @@ public class NumeroPrimo {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        
+
         System.out.print("Ingresa un número entero: ");
         int numero = scanner.nextInt();
 
