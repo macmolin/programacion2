@@ -31,7 +31,7 @@ public class NumeroCapicua {
         while (numero > 0) {
             int digito = numero % 10;
             invertido = invertido * 10 + digito;
-            numero /= 10; 
+            numero /= 10;
         }
 
         return original == invertido;
