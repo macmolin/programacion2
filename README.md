@@ -11,3 +11,4 @@ Integrantes del equipo
 
 
 El trabajo práctico 1 se encuentra en la carpeta TP1
+El trabajo práctico 2 se encuentra en la carpeta TP2
